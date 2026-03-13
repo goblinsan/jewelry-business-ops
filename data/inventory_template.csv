@@ -1,0 +1,6 @@
+sku,quantity_on_hand,reorder_threshold,reorder_quantity
+RG-001-YG-6,10,3,10
+NK-002-SS-OS,5,2,8
+BR-003-RG-OS,8,3,10
+ER-004-WG-OS,4,2,6
+NK-005-SS-OS,12,4,10

@@ -1,0 +1,6 @@
+sku,name,category,materials,size_options,cost_price,sale_price,weight_grams,description,tags,margin,markup
+RG-001-YG-6,Classic Band Ring,Ring,14k Yellow Gold,"5,6,7,8,9,10",45.00,120.00,3.5,Simple polished band in 14k yellow gold.,"ring,gold,classic",,
+NK-002-SS-OS,Delicate Chain Necklace,Necklace,Sterling Silver,"16in,18in,20in",18.00,58.00,4.2,Fine cable chain in sterling silver.,"necklace,silver,chain",,
+BR-003-RG-OS,Stackable Bangle,Bracelet,14k Rose Gold,"S/M,L/XL",38.00,95.00,6.1,Thin stackable bangle in 14k rose gold.,"bracelet,gold,rose gold,stackable",,
+ER-004-WG-OS,Stud Earrings,Earring,"14k White Gold, Diamond (0.10 ct tw)",One Size,62.00,175.00,2.8,Classic round diamond stud earrings in 14k white gold.,"earring,diamond,white gold,stud",,
+NK-005-SS-OS,Bar Pendant Necklace,Necklace,Sterling Silver,"16in,18in",22.00,65.00,5.0,Minimalist horizontal bar pendant on a fine chain.,"necklace,silver,minimalist,pendant",,

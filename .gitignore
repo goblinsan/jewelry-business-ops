@@ -19,6 +19,10 @@ htmlcov/
 venv/
 env/
 
+# Node / TypeScript
+node_modules/
+dist/
+
 # Editor/IDE
 .idea/
 .vscode/

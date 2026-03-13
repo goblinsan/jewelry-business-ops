@@ -1,8 +1,0 @@
-Metadata-Version: 2.4
-Name: jewelry-business-ops
-Version: 0.1.0
-Summary: Ops, content, ads, and feedback workflow for a jewelry business
-Requires-Python: >=3.10
-Provides-Extra: dev
-Requires-Dist: pytest>=7.4; extra == "dev"
-Requires-Dist: pytest-cov>=4.1; extra == "dev"
